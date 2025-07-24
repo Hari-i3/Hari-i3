@@ -80,5 +80,3 @@
 </p>
 
 ---
-
-<center>💡 *“Turning data into insights and code into impact!”*</center>
