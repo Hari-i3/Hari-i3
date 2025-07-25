@@ -21,7 +21,6 @@
 
 **Languages:** Java, Python, SQL  
 **Web:** HTML, CSS, JavaScript  
-**Frameworks:** WordPress, Flask  
 **Database:** SQL, MongoDB  
 **Data Analytics:** Excel, Power BI  
 **Soft Skills:** Problem-Solving, Communication, Teamwork
