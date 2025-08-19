@@ -30,20 +30,15 @@
 ## 🧪 Internships
 
 - **Dot Com Infoway** *(Jun – Jul 2025)*  
-  → Worked on data visualization and business intelligence with Python & Power BI.
-
-- **Gleemen Global** *(Jan – Mar 2025)*  
-  → Customized WordPress websites, handled SEO strategies, and client demos.
+  → Worked on data visualization and business intelligence with Python.
 
 ---
 
 ## 🏆 Achievements & Leadership
 
-- 🏅 **Dr. Kalam Young Achiever Award** (2023)  
-- 🧠 **Finalist - Enviro Solver's Hackathon** by TNPCB (2023)  
 - 🎨 **Joint Secretary - Fine Arts Club**  
 - 📏 **Student Lead - BIS Club** (2024–2025)  
-- 🧰 **Workshops Attended:** IoT, Sixth Sense Robotics
+- 🧠 **Finalist - Enviro Solver's Hackathon** by TNPCB (2023) 
 
 ---
 
